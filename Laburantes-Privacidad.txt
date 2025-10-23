@@ -1,63 +1,85 @@
-Objeto: Laburantes es una plataforma destinada a facilitar búsqueda de trabajadores. 
-No cobra comisiones por esa tarea y sugiere contratar trabajadores matriculados. 
-No es responsable de los cobros y pagos que se hagan entre las partes, 
-ni por la calidad del servicio que se presta.
+Funcionalidad: "Laburantes" es una plataforma destinada a facilitar la búsqueda de trabajadores. 
+La plataforma básica (gratuita) permite publicar y modificar 1 aviso por DNI ingresado por cada trabajador. 
+El aviso lo verán personas ubicadas hasta 15 km del lugar de su publicación.
+Esta plataforma, dispone de un campo descripción, donde se deben especificar las tareas que realiza el trabajador. 
+Se permite además, agregar una foto ilustrativa.  
+
+"Laburantes" sugiere contratar trabajadores matriculados, dado que no es responsable por la calidad de los servicios
+que se prestan. 
+No cobra comisiones, ni se responsabiliza de los cobros y pagos que se hagan entre las partes, las cuales se
+contactan en forma independiente de "Laburantes" vía el Whatsapp del trabajador, suministrado por éste
+y disponible en la plataforma.   
 
 1. Edad mínima:
    Para utilizar Laburantes, usted debe tener al menos 18 años. 
 
-2. Registro y uso responsable.
+2. Registro y uso responsable:
    Al registrarse, usted se compromete a:
-   - 2.1. Brindar información veraz, actual y completa.
-   - 2.2. No suplantar la identidad de otra persona.
-   - 2.3. Usar el sitio de manera respetuosa y conforme a ética pública y la ley Argentina.
-   - 2.4  Cada laburante puede registrarse sólo para para un único servicio.
+   - 2.1 Brindar información veraz, actual y completa.
+   - 2.2 No suplantar la identidad de otra persona.{'\n'}
+   - 2.3 Usar el sitio de manera respetuosa y conforme a ética pública.
+   - 2.4 Cada laburante puede registrarse sólo para un único servicio.{'\n'}
+   - 2.5 Cobertura Geográfica del Servicio: El servicio de Laburantes está basado en la geolocalización 
+         del usuario. La visualización y la búsqueda de Laburantes se limitan a un radio máximo de 
+         15 kilómetros del punto de publicación o consulta, sujeto a la disponibilidad de usuarios en dicha zona.
 
 3. Queda estrictamente prohibido:
    - 3.1 Publicar contenido ofensivo, vulgar, violento, discriminatorio o ilegal.
    - 3.2 Utilizar el sitio para engaños, spam o estafas.
-   - 3.3 Acosar, amenazar o extorsionar a otros usuarios, virtual o físicamente.
-   - 3.4 Exponer y/o enviar material pornográfico.
+   - 3.3 Delinquir, acosar, amenazar o extorsionar a otros usuarios, virtual o físicamente.
+   - 3.4 Exponer y/o enviar material pornográfico.{'\n'}
+   - 3.5 Advertencia de Seguridad y Verificación de Identidad: El usuario reconoce y acepta que "Laburantes"  
+        no realiza verificaciones de antecedentes penales, identidad ni certificaciones de idoneidad
+        de ningún usuario (trabajador o contratante). 
+        Por su seguridad y la de terceros, Laburantes recomienda enfáticamente al usuario tomar precauciones 
+        extremas, verificar la matrícula, solicitar referencias o realizar otras comprobaciones que 
+        considere necesarias antes de concretar un encuentro o servicio.
 
-4. Responsabilidad del contenido:
-   - 4.1 Los usuarios son los únicos responsables de sus relaciones e interacciones
+4. Denuncias y Acción Inmediata: Ante la ocurrencia de hechos tipificados en el punto 3.1 al 3.4 
+   (especialmente aquellos que comprometan la seguridad física), quien los detecte debe denunciarlos de inmediato a 
+   laburantes@gmail.com 
+   Laburantes se reserva el derecho de suspender de forma preventiva e inmediata al usuario denunciado. 
+   Laburantes procederá con la investigación interna y colaborará con la autoridad competente de la República Argentina, 
+   proporcionando la información disponible legalmente requerida.
+
+5. Responsabilidad del contenido:
+   - 5.1 Los usuarios son los únicos responsables de sus relaciones e interacciones
          dentro y fuera de la plataforma.
-   - 4.2 Cada usuario es responsable del contenido que publica y de sus consecuencias.
-   - 4.3 Laburantes no garantiza la veracidad de los perfiles ni verifica la identidad
+   - 5.2 Cada usuario es responsable del contenido que publica y de sus consecuencias.
+   - 5.3 "Laburantes" no garantiza la veracidad de los perfiles ni verifica la identidad
          de los usuarios.
 
-5. Limitación de responsabilidad:Laburantes no se hace responsable por las consecuencias de:
-   - 5.1 Delitos producto de encuentros reales entre usuarios vinculados por la plataforma.
-   - 5.2 Daños directos o indirectos derivados de su uso.
-   - 5.3 Pérdida de datos o acceso no autorizado.
+6. Limitación de responsabilidad: "Laburantes" facilita únicamente el contacto entre usuarios. Por lo tanto:
+   - 6.1 Riesgo y Autocuidado: El usuario acepta y asume la totalidad del riesgo asociado a los encuentros y servicios 
+         fuera de la plataforma. El usuario reconoce que "Laburantes" no es responsable de la conducta, 
+         actos u omisiones de otros usuarios ni por los daños personales o materiales derivados de los servicios o 
+         encuentros físicos.{'\n'}
+   - 6.2 El usuario reconoce que "Laburantes" no es responsable de daños directos o indirectos derivados de su uso.
+   - 6.3 “Laburantes” no forma parte de la relación contractual, comercial ni laboral entre los usuarios.
+          En ningún caso se la considerará empleador, representante, garante ni responsable solidario de los trabajadores 
+          o contratantes.
+          Los usuarios reconocen que toda relación o acuerdo que surja entre ellos es independiente y ajeno a la plataforma.
 
-6. Modificaciones y baja del servicio.
-   - 6.1 Laburantes puede modificar estos términos en cualquier momento. 
-   - 6.2 El uso del sitio implica la aceptación de los cambios.
-   - 6.3 Laburantes se reserva el derecho de suspender el servicio o eliminar cuentas 
+
+7. Modificaciones y baja del servicio.
+   - 7.1 "Laburantes" puede modificar estos términos en cualquier momento. 
+   - 7.2 El uso del sitio implica la aceptación de los cambios.
+   - 7.3 "Laburantes" se reserva el derecho de suspender el servicio o eliminar cuentas 
          que infrinjan estos términos.
 
-7. Privacidad
-   - 7.1 El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
-         Laburantes a procesar sus datos de acuerdo con esa política.
-   - 7.2 Los usuarios pueden solicitar a soporte.laburantes@gmail.com la eliminación de sus
-         datos.	
-   - 7.3 La ubicación se usa para mejorar la búsqueda y no se transfiere a terceros ajenos 
-         ni se usa para otros fines.
+8. Privacidad
+   - 8.1 El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
+         "Laburantes" a procesar sus datos de acuerdo con esa política.
+   - 8.2 Los usuarios pueden eliminar sus avisos publicados ingresando a la consulta de mano de obra. 
+         
+   - 8.3 La ubicación de la configuración de teléfono del usuario se usa para mejorar la búsqueda y no se transfiere a 
+         terceros ajenos, ni se usa para otros fines.
 
-8. Jurisdicción:
+9. Jurisdicción
    Estos Términos y Condiciones se rigen por las leyes de la República Argentina. 
    Ante cualquier disputa, las partes se someten a la jurisdicción de los tribunales 
    ordinarios de la Ciudad Autónoma de Buenos Aires, con renuncia a cualquier otro fuero.
 
-9. Aceptación de los términos:
+10. Aceptación de los términos
    Al usar el sitio, usted declara haber leído y aceptado estos Términos y Condiciones. 
-   En caso de no estar de acuerdo, no debe usar la plataforma.               
-
-
-
-
-
-
-
-
+   En caso de no estar de acuerdo, no debe usar la plataforma.                     
